@@ -1,0 +1,159 @@
+Afghanistan,36,36
+Albania,12.4,12.5
+Algeria,22.6,23
+Angola,40.5
+Anguilla,23
+Argentina,30
+Armenia,35.8,34.1
+Austria,6
+Azerbaijan,15.8,11
+Bahamas,9.3
+Bangladesh,31.51,31.5
+Belarus,5.4,27.1
+Belgium,15.2
+Belize,33.5,43
+Benin,39,37.4
+Bermuda,19
+Bhutan,23.2,23.2
+Bolivia,60.1,51.3
+Bosnia and Herzegovina,14,18.6
+Botswana,32.9,30.3
+Brazil,21.4,26
+Bulgaria,10.6,21.8
+Burkina Faso,46.7,46.4
+Burma,32.7
+Burundi,66.9,68
+Cambodia,30.1,31
+Cameroon,39.9,48
+Canada,9.4
+Cape Verde,26.6,30
+Central African Republic,62
+Chad,55,80
+Chile,15.1,11.5
+China,13.4
+Colombia,37.2,37.2
+Comoros,44.8,60
+Costa Rica,24.2,24.2
+Côte dIvoire,42.7,42
+Croatia,11.1,18
+Czech Republic,9
+Denmark,13.4
+Djibouti,42
+Dominica,29
+Dominican Republic,34.4,42.2
+East Timor,49.9,41
+Ecuador,32.8,28.6
+Egypt,22,20
+El Salvador,37.8,36.5
+Equatorial Guinea,76.8
+Eritrea,69,50
+Estonia,17.5
+Ethiopia,38.9,29.2
+Fiji,31,25.5
+France,6.2
+Gabon,32.7
+The Gambia,48.4
+Gaza Strip,38
+Georgia,24.7,9.7
+Germany,15.5
+Ghana,28.5,28.5
+Greece,20
+Greenland,9.2
+Grenada,38
+Guam,23
+Guatemala,51,54
+Guinea-Bissau,64.7
+Guinea,53,47
+Guyana,35
+Haiti,77,80
+Honduras,60,65
+Hungary,13.9
+India,29.8,25
+Indonesia,12.5,13.33
+Iran,18.7
+Iraq,22.9,25
+Ireland,5.5
+Israel,23.6
+Jamaica,9.9,16.5
+Japan,16
+Jordan,13.3,14.2
+Kazakhstan,8.2,8.2
+Kenya,45.9,50
+South Korea,15
+Kosovo,34.5,30
+Kyrgyzstan,33.7,33.7
+Laos,27.6,26
+Latvia,5.9
+Lebanon,28
+Lesotho,56.6,49
+Liberia,63.8,80
+Lithuania,4
+Republic of Macedonia,19,30.9
+Madagascar,68.7,50
+Malawi,52.4,53
+Malaysia,3.8,3.8
+Maldives,16
+Mali,47.4,36.1
+Mauritania,42,40
+Mauritius,8
+Mexico,51.3,18.2
+Moldova,21.9,26.3
+Mongolia,35.2,39.2
+Montenegro,6.6,6.6
+Morocco,9,15
+Mozambique,54.7,54
+Namibia,38,55.8
+Nepal,25.2,25.2
+Netherlands,10.5
+Nicaragua,46.2,46.2
+Niger,59.5,63
+Nigeria,54.7,70
+Pakistan,22.3,22.3
+Panama,32.7,29
+Papua New Guinea,37.5,37
+Paraguay,34.7,18.8
+Peru,31.3,31.3
+Philippines,26.5,32.9
+Poland,10.6,17
+Portugal,18
+Romania,13.8,21.1
+Russia,11.1,13.1
+Rwanda,44.9,60
+São Tomé and Príncipe,66.2,54
+Senegal,50.8,54
+Serbia,9.2,8.8
+Sierra Leone,66.4,70.2
+Slovakia,21
+Slovenia,12.3
+South Africa,23,50
+South Sudan,50.6
+Spain,19.8
+Sri Lanka,8.9,8.9
+Sudan,46.5,40
+Suriname,70
+Swaziland,69.2,69
+Switzerland,6.9
+Syria,11.9
+Taiwan,1.16
+Tajikistan,46.7,53
+Tanzania,33.4,36
+Thailand,8.1,8.1
+Togo,61.7,32
+Tonga,24
+Trinidad and Tobago,17
+Tunisia,3.8,3.8
+Turkey,18.1,16.9
+Turkmenistan,30
+Uganda,24.5,35
+Ukraine,2.9,35
+United Arab Emirates,19.5
+United Kingdom,14
+United States,15.1
+Uruguay,18.6,18.6
+Uzbekistan,26
+Venezuela,28.5,27.4
+Vietnam,14.5,14.5
+Virgin Islands,28.9
+Yemen,34.8,45.2
+Zambia,59.3,64
+Zimbabwe,72,68

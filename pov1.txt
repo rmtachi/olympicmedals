@@ -1,0 +1,117 @@
+Algeria,6.79,23.61
+Angola,54.31,70.21
+Argentina,0.92,1.87
+Armenia,1.28,12.43
+Azerbaijan,0.43,2.81
+Bangladesh,43.25,76.54
+Belarus,0.10,0.19
+Belize,12.21,22.00
+Benin,47.33,75.32
+Bhutan,10.22,29.76
+Bolivia,15.61,24.89
+Bosnia and Herzegovina,0.04,0.19
+Botswana,31.23,49.40
+Brazil,6.14,10.82
+Bulgaria,0.00,0.41
+Burkina Faso,44.60,72.56
+Burundi,81.32,93.45
+Cambodia,22.75,53.27
+Cameroon,9.56,30.36
+Cape Verde,21.02,40.85
+Chad,61.94,83.28
+Chile,1.35,2.72
+China,13.06,29.79
+Colombia,8.16,15.82
+Comoros,46.11,64.98
+Costa Rica,3.12,5.97
+Côte dIvoire,23.75,46.34
+Croatia,0.06,0.09
+Czech Republic,0.13,0.19
+Djibouti,18.84,41.20
+Dominican Republic,2.24,9.88
+East Timor,37.44,72.82
+Ecuador,4.61,10.59
+Egypt,1.69,15.43
+El Salvador,8.97,16.94
+Estonia,0.46,1.54
+Ethiopia,38.96,77.63
+Fiji,5.88,22.90
+Gabon,4.84,19.59
+The Gambia,33.63,55.93
+Georgia,15.27,32.21
+Ghana,28.59,51.84
+Guatemala,13.53,26.33
+Guinea,43.34,69.59
+Guinea-Bissau,48.90,77.96
+Guyana,8.70,18.02
+Haiti,61.71,77.51
+Honduras,17.92,29.84
+Hungary,0.17,0.35
+India,32.67,68.72
+Indonesia,18.06,46.12
+Iran,1.45,8.03
+Iraq,2.82,21.41
+Jamaica,0.21,5.44
+Jordan,0.12,1.59
+Kazakhstan,0.11,1.12
+Kenya,43.37,67.21
+Kyrgyzstan,6.23,21.69
+Laos,33.88,66.00
+Latvia,0.14,0.37
+Lesotho,43.41,62.25
+Liberia,83.76,94.88
+Lithuania,0.16,0.44
+Republic of Macedonia,0.00,5.91
+Madagascar,81.29,92.62
+Malawi,73.86,90.45
+Malaysia,0.00,2.27
+Mali,50.43,78.66
+Mauritania,23.43,47.69
+Mexico,1.15,5.19
+Moldova,0.39,4.35
+Montenegro,0.12,0.30
+Morocco,2.52,14.03
+Mozambique,59.58,81.77
+Namibia,31.91,51.10
+Nepal,24.82,57.25
+Nicaragua,11.91,31.74
+Niger,43.62,75.23
+Nigeria,67.98,84.49
+Pakistan,21.04,60.19
+Panama,6.56,13.80
+Papua New Guinea,35.79,57.38
+Paraguay,7.16,13.22
+Peru,4.91,12.74
+Philippines,18.42,41.53
+Poland,0.05,0.20
+Romania,0.41,1.67
+Russia,0.00,0.05
+Rwanda,63.17,82.37
+Senegal,33.50,60.36
+Serbia,0.26,0.74
+Seychelles,0.25,1.84
+Sierra Leone,53.37,76.08
+Slovakia,0.06,0.12
+Slovenia,0.06,0.10
+South Africa,13.77,31.33
+Sri Lanka,7.04,29.13
+Saint Lucia,20.93,40.58
+Sudan,19.80,44.14
+Suriname,15.54,27.20
+Swaziland,40.63,60.40
+Syria,1.71,16.85
+Tajikistan,6.56,27.69
+Tanzania,67.87,87.87
+Thailand,0.37,4.58
+Togo,38.68,69.31
+Trinidad and Tobago,4.16,13.53
+Tunisia,1.35,8.06
+Turkey,0.00,4.16
+Turkmenistan,24.82,49.65
+Uganda,38.01,64.74
+Ukraine,0.06,0.17
+Uruguay,0.20,1.18
+Venezuela,6.63,12.91
+Vietnam,16.85,43.36
+Yemen,17.53,46.60
+Zambia,68.51,82.55

@@ -1,0 +1,85 @@
+United States,46,29,29,104
+China,38,27,23,88
+United Kingdom,29,17,19,65
+Russia,24,26,32,82
+South Korea,13,8,7,28
+Germany,11,19,14,44
+France,11,11,12,34
+Italy,8,9,11,28
+Hungary,8,4,6,18
+Australia,7,16,12,35
+Japan,7,14,17,38
+Kazakhstan,7,1,5,13
+Netherlands,6,6,8,20
+Ukraine,6,5,9,20
+New Zealand,6,2,5,13
+Cuba,5,3,6,14
+Iran,4,5,3,12
+Jamaica,4,4,4,12
+Czech Republic,4,3,3,10
+North Korea,4,0,2,6
+Spain,3,10,4,17
+Brazil,3,5,9,17
+South Africa,3,2,1,6
+Ethiopia,3,1,3,7
+Croatia,3,1,2,6
+Belarus,2,5,5,12
+Romania,2,5,2,9
+Kenya,2,4,5,11
+Denmark,2,4,3,9
+Azerbaijan,2,2,6,10
+Poland,2,2,6,10
+Turkey,2,2,1,5
+Switzerland,2,2,0,4
+Lithuania,2,1,2,5
+Norway,2,1,1,4
+Canada,1,5,12,18
+Sweden,1,4,3,8
+Colombia,1,3,4,8
+Georgia,1,3,3,7
+Mexico,1,3,3,7
+Ireland,1,1,3,5
+Argentina,1,1,2,4
+Serbia,1,1,2,4
+Slovenia,1,1,2,4
+Tunisia,1,1,1,3
+Dominican Republic,1,1,0,2
+Trinidad and Tobago,1,0,3,4
+Uzbekistan,1,0,2,3
+Latvia,1,0,1,2
+Algeria,1,0,0,1
+Bahamas,1,0,0,1
+Grenada,1,0,0,1
+Uganda,1,0,0,1
+Venezuela,1,0,0,1
+India,0,2,4,6
+Mongolia,0,2,3,5
+Thailand,0,2,1,3
+Egypt,0,2,0,2
+Slovakia,0,1,3,4
+Armenia,0,1,2,3
+Belgium,0,1,2,3
+Finland,0,1,2,3
+Bulgaria,0,1,1,2
+Estonia,0,1,1,2
+Indonesia,0,1,1,2
+Malaysia,0,1,1,2
+Puerto Rico,0,1,1,2
+Taiwan,0,1,1,2
+Botswana,0,1,0,1
+Cyprus,0,1,0,1
+Gabon,0,1,0,1
+Guatemala,0,1,0,1
+Montenegro,0,1,0,1
+Portugal,0,1,0,1
+Greece,0,0,2,2
+Moldova,0,0,2,2
+Qatar,0,0,2,2
+Singapore,0,0,2,2
+Afghanistan,0,0,1,1
+Bahrain,0,0,1,1
+Hong Kong,0,0,1,1
+Saudi Arabia,0,0,1,1
+Kuwait,0,0,1,1
+Morocco,0,0,1,1
+Tajikistan,0,0,1,1
